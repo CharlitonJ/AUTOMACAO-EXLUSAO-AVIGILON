@@ -7,7 +7,7 @@ Este script foi desenvolvido para automatizar o processo de remoção ou limpeza
 1. **Início Manual:** O programa aguarda o comando do usuário (Enter) para começar, garantindo controle sobre o momento da execução.
 2. **Loop de Varredura:** O script entra em um laço de repetição contínuo (while) que busca por padrões visuais na tela.
 3. **Fluxo de Ação:**
-   - Localiza o ícone da câmera (`cam.png`).
+   - Localiza o ícone da câmera (`image.png`).
    - Clica no ícone identificado.
    - Localiza e clica no botão de exclusão (`excluir.png`).
 4. **Finalização Automática:** Quando o script não consegue mais encontrar as imagens na tela (ou seja, todas as câmeras visíveis foram excluídas), ele encerra o processo automaticamente.
