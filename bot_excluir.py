@@ -7,7 +7,7 @@ a=True
 while a==True:
     try:
         # Use confidence to adjust how strict the match needs to be (0.0 to 1.0)
-        image_location1 = pyautogui.locateCenterOnScreen("cam.png", confidence=0.6)
+        image_location1 = pyautogui.locateCenterOnScreen("image.png", confidence=0.6)
         
         point1_x, point1_y = image_location1.x, image_location1.y
         print(f"Image found at ({point1_x}, {point1_y}). Clicking there...")
