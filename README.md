@@ -1,6 +1,6 @@
 # Automação de Exclusão de Câmeras em Massa
 
-Este script foi desenvolvido para automatizar o processo de remoção ou limpeza de dispositivos no Avigilon. Ele utiliza reconhecimento visual para identificar ícones de câmeras e acionar o comando de exclusão repetidamente até que não restem mais itens na tela.
+Este script foi desenvolvido para automatizar o processo de remoção ou limpeza de dispositivos no sistema do Avigilon. Ele utiliza reconhecimento visual para identificar ícones de câmeras e acionar o comando de exclusão repetidamente até que não restem mais itens na tela.
 
 ## Funcionamento do Script
 
